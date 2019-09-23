@@ -2,4 +2,4 @@ First contents of junkfile
 UserA has changed junk file.
 adding lots of lines to this
 file it sure looks like fun
-(UserB is changing this line) but really it isn't
+(UserB is changing this line) but really it isn't (UserA is changing this file)
