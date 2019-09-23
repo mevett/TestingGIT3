@@ -1,1 +1,2 @@
 First contents of junkfile
+UserA has changed junk file.
